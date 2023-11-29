@@ -4,7 +4,7 @@ Et patcheverktøy for geforce drivere slik at PLEX/ffmpeg/mediaservere kan trans
 
 Det er basert på https://github.com/keylase/nvidia-patch sitt arbeid som stadig legger ut offsets fra x64dbg for nyeste drivere.  
 
-Jeg har forsøkt å automatisere denne prosessen i et enkelt verktøy som selv skanner etter mønsteret rundt disse bytsa, som jeg har testet OK på 536.99 og 537.13 men uten garanti for fremtidige.  
+Jeg har forsøkt å automatisere denne prosessen i et enkelt verktøy som selv skanner etter mønsteret rundt disse bytesene, som jeg har testet OK på 536.99 og 537.13 men uten garanti for fremtidige.  
 
 Dette etter at jeg fant ut hvor disse bytesene er fra egen reversering av driverne jeg foreløpig hadde på egen PC (536.99).  
 
